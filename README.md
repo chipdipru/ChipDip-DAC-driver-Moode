@@ -19,3 +19,4 @@
 <em><strong>5) Reboot system to complete installation</em></strong>
 
 <pre><code>reboot</code></pre>
+
