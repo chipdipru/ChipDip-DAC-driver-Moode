@@ -1,4 +1,4 @@
-# ChipDip-DAC-driver-Moode
+# Installation ChipDip DAC Driver for Moode 7.3.0 2021-06-25
 
 <em><strong>1) Install git</em></strong>
 
