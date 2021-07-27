@@ -21,4 +21,5 @@
 <pre><code>reboot</code></pre>
 
 <em><strong>5) Choose "chipdip-dac" from overlay list</em></strong>
+
 ![chipdip-DAC_Moode](https://user-images.githubusercontent.com/43340836/127162759-4bdfa6ee-14dd-4a3f-8799-f3d4dc0228b5.jpg)
