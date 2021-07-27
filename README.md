@@ -23,3 +23,9 @@
 <em><strong>5) Choose "chipdip-dac" from overlay list</em></strong>
 
 ![chipdip-DAC_Moode](https://user-images.githubusercontent.com/43340836/127162759-4bdfa6ee-14dd-4a3f-8799-f3d4dc0228b5.jpg)
+
+![ADAU](https://user-images.githubusercontent.com/43340836/127170535-a8d16d33-87e4-4f0f-b409-fd5449a1056e.jpg)
+
+![5242](https://user-images.githubusercontent.com/43340836/127170559-7a8e7f53-8e39-44ea-a349-9a3b1d3e30c5.jpg)
+
+![1701](https://user-images.githubusercontent.com/43340836/127170582-99b65425-6c81-4708-9894-b5d07a3111a8.jpg)
