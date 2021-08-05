@@ -1,4 +1,4 @@
-# Installation ChipDip DAC Driver for Moode 7.3.0 2021-06-25
+# ChipDip DAC Driver installation for Moode 7.3.0 2021-06-25
 
 RasPi DSP Machine 1 (ADAU1701) - https://www.chipdip.ru/product0/9000827685
 
